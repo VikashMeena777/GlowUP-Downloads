@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "glowup.vikashbuilds.in",
+  "versionName": "1.2.0",
+  "versionCode": 3,
+  "channel": "stable",
+  "releaseTag": "v1.2.0",
+  "publishedAt": "2026-11-14T23:19:36.967Z",
+  "apkUrl": "https://github.com/VikashMeena777/GlowUP-Downloads/releases/download/v1.2.0/glowup-1.2.0.apk",
+  "sha256": "f0ac71213dfe9a1367b5c596db881afd78835f3706719636fc8fcd62ec5d835a",
+  "sizeBytes": 7016187,
+  "releaseNotes": [
+    "New app identity glowup.vikashbuilds.in — installs as a separate app; it does not upgrade the old com.glowup.app build in place.",
+    "Install side by side and sign in again inside the new app. Cloud account data returns after sign-in; export any device-only preview journal before removing the old build.",
+    "Signed with the Glow Up release key — future updates from this channel must keep this signature, or Android will refuse to install them.",
+    "New in-app update notice: the app checks the stable GitHub channel on startup (and manually from settings) and shows release notes with a Download APK button.",
+    "Includes the 1.1.0 feature set: private-by-default journals, daily goals with completions, feed search and topic filters, weekly glow summary, community encouragement.",
+    "The app compares the APK size, GitHub digest and download URL with the update manifest before offering it. Android verifies the signature during installation; installation still requires your approval."
+  ]
+}
