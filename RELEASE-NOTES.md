@@ -1,4 +1,4 @@
-# Glow Up 1.3.1 — stable release
+# Glow Up 1.3.2 — stable release
 
 ## What changed
 - Account settings now have clearly spaced sections and a visible DELETE confirmation field with safe cancellation and retry states.
@@ -9,7 +9,7 @@
 - Updates the existing glowup.vikashbuilds.in app in place using the same release signature. Keep your installed app; Android asks for confirmation before updating.
 
 ## Install or update
-1. Download `glowup-1.3.1.apk` from this release.
+1. Download `glowup-1.3.2.apk` from this release.
 2. Open it and confirm the Android install or update prompt. Do not uninstall the current `glowup.vikashbuilds.in` app first.
 3. Open glowup; your existing signed-in session and journal are retained when updating in place.
 
